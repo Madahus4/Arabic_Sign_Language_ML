@@ -1,9 +1,7 @@
-# Sign_Language_ML
+# Arabic Alphabets Sign Language (ArASL) 
 
 ## Abstract
-American Sign Language (ASL) is a natural language that serves as the predominant sign language of Deaf communities. ASL is a complete and organized visual language that is expressed by facial expression as well as movements and motions with the hands.
-Problem statement
-Given a various alphabets along with images dataset pertaining to that alphabets, we are challenged to predict each alphabet in each image if and only if it contain one.
+
 
 ## Problem statement
 Given a various alphabets along with images dataset pertaining to that alphabets, we are challenged to predict each alphabet in each image if and only if it contain one.
